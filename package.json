@@ -40,7 +40,7 @@
   "dependencies": {
     "chalk": "^0.5.1",
     "d3": "3.5.6",
-    "dagre": "git+https://github.com/pakdev/dagre-webpack.git",
+    "dagre": "^7.0.0",
     "dagre-d3": "0.4.10",
     "he": "^0.5.0",
     "lodash": "^4.6.1",
